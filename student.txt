@@ -9,3 +9,5 @@ student name:Ammu
 age:19
 course:BCA
 --------------
+Sne,20,BCA,75
+sneha,20,bca,70
