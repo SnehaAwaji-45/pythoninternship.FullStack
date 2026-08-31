@@ -1,0 +1,11 @@
+student name:sneha
+age:20
+course:BCA
+student name:Sneha
+age:20
+course:BCA
+--------------
+student name:Ammu
+age:19
+course:BCA
+--------------
